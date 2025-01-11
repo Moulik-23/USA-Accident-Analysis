@@ -2,6 +2,7 @@
 This project focuses on analyzing U.S. accident data to uncover patterns, trends, and insights that can help improve road safety. It involves data preprocessing, exploratory data analysis (EDA), and visualization to identify key factors contributing to accidents.
 
 📂 Dataset
+
 Source: [Kaggle]
 Features: Location, time, weather conditions, severity, and more
 Size: 2.84 gb
