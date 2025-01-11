@@ -12,10 +12,12 @@ NumPy
 Matplotlib & Seaborn (for data visualization)
 Jupyter Notebook
 📈 Key Findings
+
 Peak accident hours and days
 Impact of weather conditions on accidents
 High-risk locations and states
 Severity distribution across regions
+
 🚀 Project Workflow
 Data Cleaning – Handled missing values and inconsistent data.
 Exploratory Data Analysis (EDA) – Identified patterns and trends.
